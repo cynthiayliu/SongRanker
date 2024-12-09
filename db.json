@@ -1,0 +1,46 @@
+{
+  "songs": [
+    {
+      "id": "cda4",
+      "title": "Good Graces",
+      "artistId": "b2f2",
+      "albumId": "5324",
+      "genre": "Pop",
+      "description": "newest album",
+      "artistName": "Sabrina Carpenter",
+      "albumTitle": "Short n Sweet"
+    },
+    {
+      "id": "d218",
+      "title": "number one girl",
+      "artistId": "8248",
+      "albumId": "a976",
+      "genre": "Pop",
+      "description": "Kpop"
+    }
+  ],
+  "albums": [
+    {
+      "id": "5324",
+      "title": "Short n Sweet",
+      "artistId": "b2f2"
+    },
+    {
+      "id": "a976",
+      "title": "rosie",
+      "artistId": "8248"
+    }
+  ],
+  "artists": [
+    {
+      "id": "b2f2",
+      "name": "Sabrina Carpenter"
+    },
+    {
+      "id": "8248",
+      "name": "ROSE"
+    }
+  ],
+  "favorites": [],
+  "ranks": []
+}
